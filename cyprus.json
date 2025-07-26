@@ -1,22 +1,19 @@
-{
-  "CYPRUS": [
-    {"name": "##### |CY| CYPRUS #####"},
-    {"name": "|CY| RIK 1 HD"},
-    {"name": "|CY| RIK 2 HD"},
-    {"name": "|CY| RIK SAT"},
-    {"name": "|CY| ERT"},
-    {"name": "|CY| OMEGA"},
-    {"name": "|CY| ANT 1"},
-    {"name": "|CY| SIGMA"},
-    {"name": "|CY| SIGMA TV"},
-    {"name": "|CY| ALPHA"},
-    {"name": "|CY| PLUS"},
-    {"name": "|CY| CAPITAL"},
-    {"name": "|CY| EXTRA"},
-    {"name": "|CY| EURONEWS"},
-    {"name": "|CY| FAROS TV"},
-    {"name": "|CY| DIGITAL TV"},
-    {"name": "|CY| SMILE TV"},
-    {"name": "|CY| ALFA SPORT"}
-  ]
-}
+[
+  {"name": "RIK 1 HD"},
+  {"name": "RIK 2 HD"},
+  {"name": "RIK SAT"},
+  {"name": "ERT"},
+  {"name": "OMEGA"},
+  {"name": "ANT 1"},
+  {"name": "SIGMA"},
+  {"name": "SIGMA TV"},
+  {"name": "ALPHA"},
+  {"name": "PLUS"},
+  {"name": "CAPITAL"},
+  {"name": "EXTRA"},
+  {"name": "EURONEWS"},
+  {"name": "FAROS TV"},
+  {"name": "DIGITAL TV"},
+  {"name": "SMILE TV"},
+  {"name": "ALFA SPORT"}
+]
