@@ -1,11 +1,8 @@
-{
-  "ESTONIA": [
-    {"name": "##### |EE| ESTONIA #####"},
-    {"name": "|EE| ETV"},
-    {"name": "|EE| ETV+"},
-    {"name": "|EE| ETV2"},
-    {"name": "|EE| RIIGIKOGU"},
-    {"name": "|EE| TAEVAS TV 7"},
-    {"name": "|EE| KIDZONE BALTIC"}
-  ]
-}
+[
+  {"name": "ETV"},
+  {"name": "ETV+"},
+  {"name": "ETV2"},
+  {"name": "RIIGIKOGU"},
+  {"name": "TAEVAS TV 7"},
+  {"name": "KIDZONE BALTIC"}
+]
