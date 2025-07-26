@@ -1,124 +1,35 @@
-{
-  "AFGHANISTAN": [
-    {
-      "name": "##### |AFG| AFGHANISTAN #####"
-    },
-    {
-      "name": "##### |AFG| GENERAL #####"
-    },
-    {
-      "name": "|AFG| CORONA VIRUS INFO"
-    },
-    {
-      "name": "|AFG| KHURSHID TV"
-    },
-    {
-      "name": "|AFG| ATN NEWS"
-    },
-    {
-      "name": "|AFG| BBC PERSIAN"
-    },
-    {
-      "name": "|AFG| BAHAR TV HD"
-    },
-    {
-      "name": "|AFG| NOOR TV"
-    },
-    {
-      "name": "|AFG| AYNA TV"
-    },
-    {
-      "name": "|AFG| TAMADON"
-    },
-    {
-      "name": "|AFG| RTA"
-    },
-    {
-      "name": "|AFG| HEWAD TV"
-    },
-    {
-      "name": "|AFG| AYENEH TV"
-    },
-    {
-      "name": "|AFG| DUNYA NAW TV"
-    },
-    {
-      "name": "|AFG| LEMAR HD"
-    },
-    {
-      "name": "|AFG| AREZO HD"
-    },
-    {
-      "name": "|AFG| 1TV AFGHAN"
-    },
-    {
-      "name": "|AFG| 1 TV"
-    },
-    {
-      "name": "|AFG| 11 TV"
-    },
-    {
-      "name": "|AFG| ATN"
-    },
-    {
-      "name": "|AFG| ARIANA NEWS TV"
-    },
-    {
-      "name": "|AFG| ARIA NEWS"
-    },
-    {
-      "name": "|AFG| PAYAM E AFGHAN TV"
-    },
-    {
-      "name": "|AFG| ZHWANDOON TV"
-    },
-    {
-      "name": "|AFG| SHAMSHAD"
-    },
-    {
-      "name": "|AFG| TOLO NEWS HD"
-    },
-    {
-      "name": "##### |AFG| MOVIES #####"
-    },
-    {
-      "name": "|AFG| BATUR TV"
-    },
-    {
-      "name": "|AFG| TOLO HD"
-    },
-    {
-      "name": "##### |AFG| SPORTS #####"
-    },
-    {
-      "name": "|AFG| RTA SPORTS HD"
-    },
-    {
-      "name": "|AFG| VARZESH TV"
-    },
-    {
-      "name": "##### |AFG| DOCUMENTARY #####"
-    },
-    {
-      "name": "##### |AFG| MUSIC #####"
-    },
-    {
-      "name": "|AFG| AMC TV"
-    },
-    {
-      "name": "|AFG| KAYHAN TV"
-    },
-    {
-      "name": "|AFG| ZARIN TV"
-    },
-    {
-      "name": "|AFG| GEM BOLLYWOOD"
-    },
-    {
-      "name": "|AFG| PAMIR TV"
-    },
-    {
-      "name": "##### |AFG| KIDS #####"
-    }
-  ]
-}
+[
+  { "name": "CORONA VIRUS INFO" },
+  { "name": "KHURSHID TV" },
+  { "name": "ATN NEWS" },
+  { "name": "BBC PERSIAN" },
+  { "name": "BAHAR TV HD" },
+  { "name": "NOOR TV" },
+  { "name": "AYNA TV" },
+  { "name": "TAMADON" },
+  { "name": "RTA" },
+  { "name": "HEWAD TV" },
+  { "name": "AYENEH TV" },
+  { "name": "DUNYA NAW TV" },
+  { "name": "LEMAR HD" },
+  { "name": "AREZO HD" },
+  { "name": "1TV AFGHAN" },
+  { "name": "1 TV" },
+  { "name": "11 TV" },
+  { "name": "ATN" },
+  { "name": "ARIANA NEWS TV" },
+  { "name": "ARIA NEWS" },
+  { "name": "PAYAM E AFGHAN TV" },
+  { "name": "ZHWANDOON TV" },
+  { "name": "SHAMSHAD" },
+  { "name": "TOLO NEWS HD" },
+  { "name": "BATUR TV" },
+  { "name": "TOLO HD" },
+  { "name": "RTA SPORTS HD" },
+  { "name": "VARZESH TV" },
+  { "name": "AMC TV" },
+  { "name": "KAYHAN TV" },
+  { "name": "ZARIN TV" },
+  { "name": "GEM BOLLYWOOD" },
+  { "name": "PAMIR TV" }
+]
