@@ -1,1 +1,11 @@
-{"JAPAN":[{"name":"##### |JP| JAPAN #####"},{"name":"|JP| NHK WORLD JAPAN"},{"name":"|JP| TOKYO MX2 "},{"name":"|JP| TOKYO MX1"},{"name":"|JP| CGNTV JAPAN"},{"name":"|JP| SHOP CHANNEL HD "},{"name":"|JP| QVC JAPAN HD"},{"name":"|JP| JAPANET CHANNEL DX HD"},{"name":"|JP| GUMMA TV HD"},{"name":"|JP| WEATHER NEWS HD"}]}
+[
+  {"name": "NHK WORLD JAPAN"},
+  {"name": "TOKYO MX2"},
+  {"name": "TOKYO MX1"},
+  {"name": "CGNTV JAPAN"},
+  {"name": "SHOP CHANNEL"},
+  {"name": "QVC JAPAN"},
+  {"name": "JAPANET CHANNEL DX"},
+  {"name": "GUMMA TV"},
+  {"name": "WEATHER NEWS"}
+]
