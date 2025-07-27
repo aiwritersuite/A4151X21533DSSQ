@@ -1,1 +1,16 @@
-{"SLOVAKIA":[{"name":"##### |SK| SLOVAKIA #####"},{"name":"|SK| STV 1 HD"},{"name":"|SK| STV 2 HD"},{"name":"|SK| DAJTO HD"},{"name":"|SK| DUCK TV"},{"name":"|SK| DOMA HD"},{"name":"|SK| WAU HD"},{"name":"|SK| SENZI"},{"name":"|SK| SLAGR PREMIUM HD"},{"name":"|SK| SLAGR 2"},{"name":"|SK| MARKIZA HD"},{"name":"|SK| MARKIZA  +1 HD"},{"name":"|SK| MARKIZA INTERNATIONAL"},{"name":"|SK| JOJKO"},{"name":"|SK| TV JOJ  +1 HD"}]}
+[
+  {"name": "STV 1 HD"},
+  {"name": "STV 2 HD"},
+  {"name": "DAJTO HD"},
+  {"name": "DUCK TV"},
+  {"name": "DOMA HD"},
+  {"name": "WAU HD"},
+  {"name": "SENZI"},
+  {"name": "SLAGR PREMIUM HD"},
+  {"name": "SLAGR 2"},
+  {"name": "MARKIZA HD"},
+  {"name": "MARKIZA +1 HD"},
+  {"name": "MARKIZA INTERNATIONAL"},
+  {"name": "JOJKO"},
+  {"name": "TV JOJ +1 HD"}
+]
