@@ -1,1 +1,15 @@
-{"KOREA":[{"name":"##### |KR| KOREA #####"},{"name":"|KR| ARIRANG KOREA"},{"name":"|KR| SBS"},{"name":"|KR| SBS PLUS"},{"name":"|KR| YTN "},{"name":"|KR| MBC"},{"name":"|KR| MBN"},{"name":"|KR| EBS"},{"name":"|KR| NAT GEO KOREA"},{"name":"|KR| TAN"},{"name":"|KR| CTS"},{"name":"|KR| TVN"},{"name":"|KR| ARIRANG"},{"name":"|KR| KBS WORLD"}]}
+[
+  {"name": "ARIRANG KOREA"},
+  {"name": "SBS"},
+  {"name": "SBS PLUS"},
+  {"name": "YTN"},
+  {"name": "MBC"},
+  {"name": "MBN"},
+  {"name": "EBS"},
+  {"name": "NAT GEO KOREA"},
+  {"name": "TAN"},
+  {"name": "CTS"},
+  {"name": "TVN"},
+  {"name": "ARIRANG"},
+  {"name": "KBS WORLD"}
+]
