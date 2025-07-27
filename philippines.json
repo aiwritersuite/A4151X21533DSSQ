@@ -1,1 +1,8 @@
-{"PHILIPPINE":[{"name":"##### |PH| PHILIPPINE #####"},{"name":"|PH| GMA LIFE"},{"name":"|PH| GMA NEWS TV"},{"name":"|PH| GMA PINOY TV"},{"name":"|PH| TFC"},{"name":"|PH| LIFESTYLE NETWORK"},{"name":"|PH| ABS CBN SPORTS ACTION"}]}
+[
+  {"name": "GMA LIFE"},
+  {"name": "GMA NEWS TV"},
+  {"name": "GMA PINOY TV"},
+  {"name": "TFC"},
+  {"name": "LIFESTYLE NETWORK"},
+  {"name": "ABS CBN SPORTS ACTION"}
+]
