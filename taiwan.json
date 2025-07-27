@@ -1,1 +1,17 @@
-{"TAIWAN":[{"name":"##### |TWN| TAIWAN #####"},{"name":"|TWN| FORMOSA TV"},{"name":"|TWN| SETI"},{"name":"|TWN| CTS AMERICA"},{"name":"|TWN| TTV"},{"name":"|TWN| ET CHINA"},{"name":"|TWN| ET GLOBAL"},{"name":"|TWN| ET DRAMA"},{"name":"|TWN| ET FINANCIAL NEWS"},{"name":"|TWN| ET NEWS"},{"name":"|TWN| USTV"},{"name":"|TWN| SKYLINK TELEVISION"},{"name":"|TWN| SKYLINK TELEVISION 2"},{"name":"|TWN| ICITI"},{"name":"|TWN| TVBS"},{"name":"|TWN| YOYO TV"}]}
+[
+  {"name": "FORMOSA TV"},
+  {"name": "SETI"},
+  {"name": "CTS AMERICA"},
+  {"name": "TTV"},
+  {"name": "ET CHINA"},
+  {"name": "ET GLOBAL"},
+  {"name": "ET DRAMA"},
+  {"name": "ET FINANCIAL NEWS"},
+  {"name": "ET NEWS"},
+  {"name": "USTV"},
+  {"name": "SKYLINK TELEVISION"},
+  {"name": "SKYLINK TELEVISION 2"},
+  {"name": "ICITI"},
+  {"name": "TVBS"},
+  {"name": "YOYO TV"}
+]
